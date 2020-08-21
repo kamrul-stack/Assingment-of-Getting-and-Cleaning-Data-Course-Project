@@ -70,3 +70,5 @@ be addressed to the authors or their institutions for its use or misuse. Any
 commercial use is prohibited.
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
+
+I am editing the README file. Adding some more details about the project description.
